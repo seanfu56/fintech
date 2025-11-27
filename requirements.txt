@@ -2,3 +2,4 @@ hftbacktest
 numpy
 numba
 polars
+gdown
